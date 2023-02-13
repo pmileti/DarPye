@@ -1,0 +1,601 @@
+[
+  {
+    "id": 0,
+    "nombre_profesion": "Familia",
+    "area": "Proyecto de vida",
+    "descripcion": "Esta foto representa una familia feliz. Los padres de los niños proyectan lo mejor para ellos y son felices de verlos crecer y progresar."
+  },
+  {
+    "id": 1,
+    "nombre_profesion": "Abogado",
+    "area": "Derecho",
+    "descripcion": "Un abogado es un profesional que se encarga de asesorar y representar a personas o empresas en problemas legales. También pueden trabajar en la preparación de documentos legales y en la resolución de disputas sin llegar a juicio."
+  },
+  {
+    "id": 2,
+    "nombre_profesion": "Médico",
+    "area": "Medicina",
+    "descripcion": "Un médico es un profesional de la salud que se encarga de diagnosticar y tratar enfermedades en seres humanos. Pueden especializarse en diferentes áreas de la medicina, como la pediatría, la cirugía o la medicina interna."
+  },
+  {
+    "id": 3,
+    "nombre_profesion": "Enfermero",
+    "area": "Medicina",
+    "descripcion": "Un enfermero es un profesional de la salud que se encarga de brindar atención médica a pacientes en hospitales, clínicas y otras instituciones de salud. También pueden trabajar en el hogar de los pacientes y en la comunidad en general."
+  },
+  {
+    "id": 4,
+    "nombre_profesion": "Profesor",
+    "area": "Educación",
+    "descripcion": "Un profesor es un profesional que se encarga de enseñar a niños y jóvenes en una escuela o institución educativa. También pueden brindar clases particulares o enseñar a distancia."
+  },
+  {
+    "id": 5,
+    "nombre_profesion": "Ingeniero",
+    "area": "Ingeniería",
+    "descripcion": "Un ingeniero es un profesional que se encarga de diseñar, construir y mantener sistemas, estructuras y maquinaria. Pueden especializarse en diferentes áreas, como la ingeniería civil, eléctrica o mecánica."
+  },
+  {
+    "id": 6,
+    "nombre_profesion": "Periodista",
+    "area": "Comunicación",
+    "descripcion": "Un periodista es un profesional que se encarga de recopilar, investigar y difundir noticias a través de medios de comunicación, como periódicos, radio, televisión o internet."
+  },
+  {
+    "id": 7,
+    "nombre_profesion": "Cocinero",
+    "area": "Gastronomía",
+    "descripcion": "Un cocinero es un profesional que se encarga de preparar y presentar alimentos en un restaurante u otro establecimiento de comida. También pueden trabajar en la creación de nuevos platos y menús y en la gestión de un negocio de comida."
+  },
+  {
+    "id": 8,
+    "nombre_profesion": "Arquitecto",
+    "area": "Construcción",
+    "descripcion": "Un arquitecto es un profesional que se encarga de diseñar y planificar la construcción de edificios y otras estructuras. También pueden trabajar en la conservación y restauración de edificios históricos y en la planificación del espacio urbano."
+  },
+  {
+    "id": 9,
+    "nombre_profesion": "Contador",
+    "area": "Economía",
+    "descripcion": "Un contador es un profesional que se encarga de llevar el registro financiero de una empresa o persona. También pueden brindar asesoramiento en temas fiscales y financieros."
+  },
+  {
+    "id": 10,
+    "nombre_profesion": "Dentista",
+    "area": "Medicina",
+    "descripcion": "Un dentista es un profesional de la salud que se encarga de prevenir, diagnosticar y tratar enfermedades y problemas en los dientes y encías. También pueden realizar procedimientos estéticos, como blanqueamientos y colocación de coronas."
+  },
+  {
+    "id": 11,
+    "nombre_profesion": "Psicólogo",
+    "area": "Medicina",
+    "descripcion": "Un psicólogo es un profesional de la salud mental que se encarga de ayudar a las personas a entender y mejorar sus pensamientos, emociones y comportamientos. Pueden trabajar en el tratamiento de trastornos mentales y en la promoción de la salud mental en general."
+  },
+  {
+    "id": 12,
+    "nombre_profesion": "Físico",
+    "area": "Ciencias Naturales",
+    "descripcion": "Un físico es un científico que se encarga de estudiar la naturaleza y el comportamiento de la energía, la materia y sus interacciones. También pueden trabajar en la aplicación de estos conocimientos para resolver problemas prácticos."
+  },
+ {
+    "id": 13,
+    "nombre_profesion": "Arqueólogo",
+    "area": "Ciencias Naturales",
+    "descripcion": "Un arqueólogo es un profesional que se encarga de estudiar y excavar restos arqueológicos para reconstruir y entender la historia y la cultura de sociedades pasadas. También pueden trabajar en la enseñanza de la arqueología y en la conservación y musealización de sitios arqueológicos."
+  },
+  {
+    "id": 14,
+    "nombre_profesion": "Astrónomo",
+    "area": "Ciencias Naturales",
+    "descripcion": "Un astrónomo es un científico que se encarga del estudio del espacio y los cuerpos celestes. También pueden trabajar en la exploración y la investigación de planetas y otros cuerpos celestes."
+  },
+  {
+    "id": 15,
+    "nombre_profesion": "Biólogo",
+    "area": "Ciencias Naturales",
+    "descripcion": "Un biólogo es un científico que se encarga del estudio de los seres vivos y sus procesos vitales. También pueden trabajar en la conservación y protección de la biodiversidad y en el desarrollo de nuevos productos y medicamentos."
+  },
+  {
+    "id": 16,
+    "nombre_profesion": "Músico",
+    "area": "Arte",
+    "descripcion": "Un músico es un artista que se encarga de crear y tocar música. Pueden tocar un instrumento o cantar, y pueden trabajar en grupos o en solitario."
+  },
+  {
+    "id": 17,
+    "nombre_profesion": "Artista plástico",
+    "area": "Arte",
+    "descripcion": "Un artista plástico es un artista que se encarga de crear obras de arte utilizando diferentes técnicas y materiales, como pintura, escultura, dibujo o fotografía."
+  },
+  {
+    "id": 18,
+    "nombre_profesion": "Actor",
+    "area": "Arte",
+    "descripcion": "Un actor es un artista que se encarga de representar personajes en una obra de teatro, una película o una serie de televisión. También pueden trabajar en el doblaje o en la enseñanza del teatro."
+  },
+  {
+    "id": 19,
+    "nombre_profesion": "Escritor",
+    "area": "Arte",
+    "descripcion": "Un escritor es un artista que se encarga de crear obras literarias, como novelas, poemas, cuentos o guiones de cine y televisión. También pueden trabajar como periodistas o redactores."
+  },
+  {
+    "id": 20,
+    "nombre_profesion": "Ingeniero de sistemas",
+    "area": "Informática",
+    "descripcion": "Un ingeniero de sistemas es un profesional que se encarga de planificar y supervisar proyectos relacionados con el diseño y la implementación de sistemas informáticos. También pueden trabajar en la enseñanza de la ingeniería de sistemas y en la investigación de nuevas tecnologías en este campo."
+  }
+,
+  {
+    "id": 21,
+    "nombre_profesion": "Ingeniero civil",
+    "area": "Construcción",
+    "descripcion": "Un ingeniero civil es un profesional que se encarga de planificar y supervisar proyectos de construcción y obras públicas. También pueden trabajar en la enseñanza de la ingeniería civil y en la investigación de nuevas tecnologías para la construcción."
+  },
+  {
+    "id": 22,
+    "nombre_profesion": "Ingeniero electrónico",
+    "area": "Electrónica",
+    "descripcion": "Un ingeniero electrónico es un profesional que se encarga de planificar y supervisar proyectos relacionados con la electricidad y la electrónica. También pueden trabajar en la enseñanza de la ingeniería eléctrica y en la investigación de nuevas tecnologías en este campo."
+  },
+ {
+    "id": 23,
+    "nombre_profesion": "Barman",
+    "area": "Gastronomía",
+    "descripcion": "Un barman es un profesional que se encarga de preparar y servir bebidas alcohólicas y no alcohólicas en un bar o un club nocturno. También pueden trabajar en la creación de cocteles y en la gestión de un negocio de bebidas."
+  },
+ {
+    "id": 24,
+    "nombre_profesion": "Cura",
+    "area": "Religión",
+    "descripcion": "Un cura o sacerdote es aquella persona que consagra su vida al estudio y práctica religiosa hacia una divinidad en concreto, entre sus principales funciones están la de dirigir los ritos religiosos y administrar los sacramentos según dicte la religión que profesa."
+  },
+  {
+    "id": 25,
+    "nombre_profesion": "Diseñador de moda",
+    "area": "Textil",
+    "descripcion": "Un diseñador de moda es un profesional que se encarga de crear y desarrollar colecciones de ropa y accesorios. También pueden trabajar en la gestión de un negocio de moda y en la promoción de sus productos."
+  },
+  {
+    "id": 26,
+    "nombre_profesion": "Peluquero",
+    "area": "Belleza",
+    "descripcion": "Un peluquero es un profesional que se encarga de cortar, peinar y tratar el cabello de las personas. También pueden realizar procedimientos de belleza, como maquillajes y tratamientos de piel."
+  },
+  {
+    "id": 27,
+    "nombre_profesion": "Maquillador",
+    "area": "Estética",
+    "descripcion": "Un maquillador es un profesional que se encarga de aplicar y retocar maquillajes en las personas. También pueden trabajar en la creación de looks especiales para eventos y en la enseñanza del maquillaje."
+  },
+  {
+    "id": 28,
+    "nombre_profesion": "Esteticista",
+    "area": "Estética",
+    "descripcion": "Un esteticista es un profesional que se encarga de realizar tratamientos de belleza y cuidado de la piel. También pueden trabajar en la venta de productos de belleza y en la enseñanza de técnicas de cuidado personal."
+  },
+  {
+    "id": 29,
+    "nombre_profesion": "Veterinario",
+    "area": "Veterinaria",
+    "descripcion": "Un veterinario es un profesional de la salud que se encarga de diagnosticar y tratar enfermedades en animales. También pueden trabajar en la prevención de enfermedades y en la protección de la salud animal."
+  },
+  {
+    "id": 30,
+    "nombre_profesion": "Farmacéutico",
+    "area": "Medicina",
+    "descripcion": "Un farmacéutico es un profesional de la salud que se encarga de preparar y distribuir medicamentos. También pueden brindar asesoramiento sobre el uso de medicamentos y en la promoción de la salud."
+  },
+  {
+    "id": 31,
+    "nombre_profesion": "Fisioterapeuta",
+    "area": "Medicina",
+    "descripcion": "Un fisioterapeuta es un profesional de la salud que se encarga de tratar y prevenir problemas de movilidad y funcionamiento físico a través de ejercicios y terapias. También pueden trabajar en la rehabilitación de lesiones y enfermedades."
+  },
+  {
+    "id": 32,
+    "nombre_profesion": "Albañil",
+    "area": "Construcción",
+    "descripcion": "Un albañil es un profesional que se encarga de levantar y reparar estructuras de edificios y otras construcciones. También pueden trabajar en la instalación de sistemas de fontanería y electricidad y en la aplicación de revestimientos y acabados."
+  },
+  {
+    "id": 33,
+    "nombre_profesion": "Electricista",
+    "area": "Electrónica",
+    "descripcion": "Un electricista es un profesional que se encarga de instalar, reparar y mantener sistemas eléctricos. También pueden trabajar en la implementación de sistemas de energía solar y en la realización de pruebas y evaluaciones eléctricas."
+  },
+  {
+    "id": 34,
+    "nombre_profesion": "Carpintero",
+    "area": "Construcción",
+    "descripcion": "Un carpintero es un profesional que se encarga de fabricar y reparar muebles y otros objetos de madera. También pueden trabajar en la instalación y reparación de estructuras de madera, como puertas, ventanas y marcos."
+  },
+  {
+    "id": 35,
+    "nombre_profesion": "Pintor",
+    "area": "Construcción",
+    "descripcion": "Un pintor es un profesional que se encarga de aplicar y reparar capas de pintura en casas, edificios y otros objetos. También pueden trabajar en la preparación de superficies y en la aplicación de otros revestimientos, como papel pintado o materiales de enlucido."
+  },
+  {
+    "id": 36,
+    "nombre_profesion": "Muralista",
+    "area": "Arte",
+    "descripcion": "Un muralista es un profesional que se encarga de la creación de pinturas murales: es decir, de obras que se realizan a lo largo de un muro o pared."
+  },
+{
+  "id": 37,
+  "nombre_profesion": "Programador",
+  "area": "Informática",
+  "descripcion": "Un programador es un profesional que se encarga de escribir y diseñar el código de programas y aplicaciones informáticas. También pueden trabajar en la enseñanza de la programación y en la investigación en este campo."
+},
+  {
+    "id": 38,
+    "nombre_profesion": "Bailarín",
+    "area": "Arte",
+    "descripcion": "Un bailarín es un profesional que se encarga de interpretar danzas o coreografías. También pueden trabajar en la enseñanza de la danza y en la producción de espectáculos de danza."
+  },
+  {
+    "id": 39,
+    "nombre_profesion": "Escultor",
+    "area": "Arte",
+    "descripcion": "Un escultor es un profesional que se encarga de crear esculturas y otras obras de arte tridimensionales. También pueden trabajar en la conservación y restauración de esculturas y en la enseñanza de la escultura."
+  },
+  {
+    "id": 40,
+    "nombre_profesion": "Fotógrafo",
+    "area": "Arte",
+    "descripcion": "Un fotógrafo es un profesional que se encarga de tomar y editar fotografías. También pueden trabajar en la realización de reportajes fotográficos y en la enseñanza de la fotografía."
+  },
+  {
+    "id": 41,
+    "nombre_profesion": "Diseñador gráfico",
+    "area": "Informática",
+    "descripcion": "Un diseñador gráfico es un profesional que se encarga de crear diseños visuales para comunicar ideas y mensajes. También pueden trabajar en la creación de logotipos, carteles y otros elementos de diseño y en la enseñanza del diseño gráfico."
+  },
+  {  
+    "id": 42,    
+    "nombre_profesion": "Futbolista",    
+    "area": "Deportes",    
+    "descripcion": "Un futbolista es una persona que se dedica profesionalmente al deporte fútbol."  
+  },
+{
+  "id": 43,
+  "nombre_profesion": "Tatuador",
+  "area": "Arte",
+  "descripcion": "Un tatuador es un artista que se encarga de diseñar e inscribir tatuajes en la piel de las personas. Deben tener habilidades artísticas y técnicas para crear diseños personalizados y aplicarlos de manera segura y efectiva."
+},
+  {
+    "id": 44,
+    "nombre_profesion": "Locutor",
+    "area": "Comunicación",
+    "descripcion": "Un locutor es un profesional que se encarga de presentar y narrar programas de radio o televisión. También pueden trabajar en la enseñanza del locución y en la producción de contenidos de audio y video."
+  },
+  {
+    "id": 45,
+    "nombre_profesion": "Ilustrador",
+    "area": "Arte",
+    "descripcion": "Un ilustrador es un profesional que se encarga de crear ilustraciones a mano o por medio de programas informáticos. También pueden trabajar en la enseñanza de la ilustración y en la producción de contenidos visuales."
+  },
+{
+  "id": 46,
+  "nombre_profesion": "Mozo",
+  "area": "Gastronomía",        
+  "descripcion": "El mozo es responsable de atender a los clientes en un restaurante o bar, tomando sus pedidos y asegurándose de que reciban un servicio excepcional."
+},
+{
+  "id": 47,        
+  "nombre_profesion": "Jardinero",
+  "area": "Ciencias Naturales",
+  "descripcion": "El jardinero es responsable de cuidar y mantener los jardines y parques, incluyendo la poda, siembra y riego de las plantas."
+},
+{
+  "id": 48,
+  "nombre_profesion": "Camarógrafo",
+  "area": "Comunicación",        
+  "descripcion": "El camarógrafo es responsable de operar la cámara y capturar imágenes en un rodaje de cine o televisión, así como en eventos en vivo o de noticias."
+},    
+{
+  "id": 49,
+  "nombre_profesion": "Bombero",
+  "area": "Servicios",
+  "descripcion": "El bombero es responsable de proteger a las personas y la propiedad de incendios, así como de brindar asistencia en emergencias y rescates."
+},
+{        
+  "id": 50,
+  "nombre_profesion": "Mecánico",
+  "area": "Automotriz",
+  "descripcion": "El mecánico es responsable de reparar y mantener los vehículos, a través de la identificación y resolución de problemas técnicos."    
+},
+{
+   "id": 51,        
+   "nombre_profesion": "Jugador de hockey",        
+   "area": "Deportes",        
+   "descripcion": "El jugador de hockey es responsable de jugar en un equipo de hockey, compitiendo contra otros equipos en una variedad de niveles, desde amateur hasta profesional." 
+},    
+{        
+   "id": 52,        
+   "nombre_profesion": "Buzo",        
+   "area": "Aventura",        
+   "descripcion": "El buzo es responsable de explorar el fondo del mar, ya sea para investigación científica o recreación, utilizando un equipo especializado para respirar bajo el agua."    
+},    
+{        
+  "id": 53,        
+  "nombre_profesion": "Bibliotecario",        
+  "area": "Educación",        
+  "descripcion": "El bibliotecario es responsable de administrar y organizar una biblioteca, incluyendo la adquisición, catalogación y préstamo de libros y otros materiales de lectura."    
+},
+{        
+  "id": 54,        
+  "nombre_profesion": "Telemarketer",        
+  "area": "Ventas",        
+  "descripcion": "El telemarketer es responsable de realizar llamadas telefónicas para promover y vender productos o servicios a clientes potenciales."    
+},    
+{        
+  "id": 55,        
+  "nombre_profesion": "Diputado",        
+  "area": "Política",        
+  "descripcion": "El diputado es un miembro elegido de un parlamento, cuya labor es representar a su electorado y participar en la toma de decisiones y la elaboración de leyes."    
+},    
+{        
+  "id": 56,        
+  "nombre_profesion": "Melómano",        
+  "area": "Arte",        
+  "descripcion": "El melómano es una persona apasionada de la música, y se dedica a la escucha y apreciación de la misma, puede ser tanto un profesional como un aficionado."    
+},    
+{        
+  "id": 57,        
+  "nombre_profesion": "Repartidor",        
+  "area": "Logística",        
+  "descripcion": "El repartidor es responsable de la entrega de mercancías o paquetes a los clientes, utilizando un vehículo o una bicicleta, siguiendo un itinerario establecido."    
+},
+{        
+  "id": 58,        
+  "nombre_profesion": "Conserje",        
+  "area": "Turismo",        
+  "descripcion": "El conserje es responsable de mantener el orden y limpieza en un edificio, como un hotel o un edificio de oficinas, así como de brindar ayuda a los visitantes."    
+},    
+{        
+"id": 59,        
+"nombre_profesion": "Cajera",        
+"area": "Ventas",        
+"descripcion": "La cajera de supermercado es responsable de operar una caja registradora, cobrar a los clientes y manejar el dinero en efectivo."    
+},    
+{
+  "id": 60,        
+  "nombre_profesion": "Ganadero",        
+  "area": "Agricultura",        
+  "descripcion": "El ganadero es responsable del cuidado y la gestión de un rebaño de animales, como vacas, cerdos o ovejas, incluyendo su alimentación y salud."    
+},    
+{        
+  "id": 61,        
+  "nombre_profesion": "Artesano",        
+  "area": "Arte",        
+  "descripcion": "El artesano es responsable de crear objetos a mano, utilizando habilidades técnicas y creativas, tales como la cerámica, la joyería o el trabajo en madera."    
+},
+{        
+  "id": 62,        
+  "nombre_profesion": "Empresario",        
+  "area": "Negocios",        
+  "descripcion": "El empresario es responsable de dirigir y administrar un negocio, tomando decisiones estratégicas y asumiendo el riesgo económico."    
+},    
+{        
+  "id": 63,        
+  "nombre_profesion": "Militar",        
+  "area": "Servicios",        
+  "descripcion": "El militar es responsable de defender a su país mediante el servicio en las fuerzas armadas, puede ser tanto en tiempos de paz como de guerra."    
+},    
+{        
+  "id": 64,        
+  "nombre_profesion": "Editor de video",        
+  "area": "Informática",        
+  "descripcion": "El editor de video es responsable de recortar y editar las imágenes capturadas en un rodaje para crear un producto final, como una película, un documental o una publicidad"    
+},    
+{        
+  "id": 65,        
+  "nombre_profesion": "Boxeador",        
+  "area": "Deportes",        
+  "descripcion": "El boxeador es responsable de competir en un ring de boxeo, enfrentando a oponentes en peleas con reglas establecidas, con el objetivo de ganar títulos y lograr fama en el deporte"    
+},
+{        
+  "id": 66,        
+  "nombre_profesion": "Policía",        
+  "area": "Servicios",        
+  "descripcion": "El policía es responsable de mantener el orden público y proteger a las personas y la propiedad, investigando delitos y arrestando a los sospechosos."    
+},    
+{        
+  "id": 67,        
+  "nombre_profesion": "Matemático",        
+  "area": "Ciencias exáctas",        
+  "descripcion": "El matemático es responsable de estudiar y aplicar conceptos matemáticos para resolver problemas en una variedad de campos, como la física, la economía y la informática."    
+},    
+{        
+  "id": 68,        
+  "nombre_profesion": "Reparador de PC",        
+  "area": "Informática",        
+  "descripcion": "El reparador de computadoras es responsable de diagnosticar y reparar problemas en computadoras y dispositivos electrónicos, puede ser tanto a nivel de software como de hardware"    
+},    
+{        
+  "id": 69,        
+  "nombre_profesion": "Secretaria",        
+  "area": "Administración",        
+  "descripcion": "La secretaria es responsable de llevar un registro de los asuntos administrativos de una empresa o institución, así como de brindar apoyo al personal directivo."    
+},
+{        
+  "id": 70,        
+  "nombre_profesion": "Remisero",        
+  "area": "Transporte",        
+  "descripcion": "El remisero es responsable de conducir un vehículo de alquiler con conductor, trasladando a los pasajeros a sus destinos según las solicitudes."    },    
+{        
+  "id": 71,        
+  "nombre_profesion": "Agrimensor",        
+  "area": "Agronomía",        
+  "descripcion": "El agrimensor es responsable de medir y describir terrenos y propiedades, con el objetivo de determinar sus límites y características para su uso y gestión."    
+},    
+{        
+  "id": 72,        
+  "nombre_profesion": "Modelo",        
+  "area": "Moda",        
+  "descripcion": "El modelo es responsable de desfilar o posar para fotografías, con el objetivo de promover ropa, accesorios y productos de belleza."    
+},    
+{        
+  "id": 73,        
+  "nombre_profesion": "Operador de sonido",        
+  "area": "Comunicación",        
+  "descripcion": "El operador de sonido es responsable de grabar, mezclar y reproducir sonidos en una variedad de entornos, como cine, televisión, teatro y eventos en vivo."    
+},
+{
+        "id": 74,
+        "nombre_profesion": "Lava autos",
+        "area": "Servicios",
+        "descripcion": "El lava autos es responsable de limpiar y mantener el exterior de los vehículos, utilizando productos y herramientas específicas para lograrlo."
+    },
+    {
+        "id": 75,
+        "nombre_profesion": "Forense",
+        "area": "Ciencias exáctas",
+        "descripcion": "El forense es responsable de analizar y recolectar pruebas en investigaciones criminales y accidentes, con el objetivo de establecer causas y responsabilidades."
+    },
+    {
+        "id": 76,
+        "nombre_profesion": "Turista",
+        "area": "Proyecto de vida",
+        "descripcion": "El turista es una persona que viaja a lugares diferentes a su lugar de residencia, con el objetivo de descansar, conocer nuevos lugares y culturas, o simplemente disfrutar."
+},
+{        "id": 77,        
+         "nombre_profesion": "Nadador",        
+         "area": "Deportes",        
+         "descripcion": "El nadador es responsable de competir en pruebas de natación, ya sea en piscina o en agua abierta, siguiendo reglas establecidas, con el objetivo de ganar competiciones y lograr récords."    
+},
+{
+        "id": 78,
+        "nombre_profesion": "Publicista",
+        "area": "Ventas",
+        "descripcion": "El publicista o encargado de marketing es responsable de crear y ejecutar campañas publicitarias y promocionales, con el objetivo de aumentar las ventas y mejorar la imagen de un producto o servicio."
+    },
+    {
+        "id": 79,
+        "nombre_profesion": "Escalador",
+        "area": "Aventura",
+        "descripcion": "El escalador es responsable de ascender montañas, rocas y paredes, utilizando técnicas y equipo especializado para lograrlo de forma segura."
+    },
+    {
+        "id": 80,
+        "nombre_profesion": "Mago",
+        "area": "Arte",
+        "descripcion": "El mago es responsable de realizar trucos y ilusiones con el objetivo de entretener a un público, ya sea en un escenario o en un entorno privado."
+    },
+{        
+  "id": 81,        
+  "nombre_profesion": "Tenista",        
+  "area": "Deportes",        
+  "descripcion": "El tenista es responsable de competir en partidos de tenis, siguiendo reglas establecidas, con el objetivo de ganar competiciones y lograr posiciones en el ranking mundial."    
+},    
+{        
+  "id": 82,        
+  "nombre_profesion": "Ferretero",        
+  "area": "Ventas",        
+  "descripcion": "El ferretero es responsable de vender y asesorar sobre herramientas, materiales y maquinaria para la construcción y reparación de edificaciones."    },    
+{        
+  "id": 83,        
+  "nombre_profesion": "Azafata",        
+  "area": "Servicios",        
+  "descripcion": "La azafata es responsable de brindar servicio y atención a los pasajeros en un vuelo, asegurando su comodidad y seguridad durante el viaje."    
+},    
+{        
+  "id": 84,        
+  "nombre_profesion": "Maestra",        
+  "area": "Educación",        
+  "descripcion": "La maestra es responsable de guiar el aprendizaje de los estudiantes, planificando y brindando clases y evaluando el progreso académico."    
+},
+{        
+  "id": 85,        
+  "nombre_profesion": "Paseador de perros",        
+  "area": "Servicios",        
+  "descripcion": "El paseador de perros es responsable de caminar y cuidar a los perros de sus clientes, asegurando su seguridad y bienestar durante el paseo."    
+},    
+{        
+  "id": 86,        
+  "nombre_profesion": "Director de cine",        
+  "area": "Arte",        
+  "descripcion": "El director de cine es responsable de dirigir y supervisar todas las aspectos de la producción de una película, desde la planificación hasta la postproducción."    
+},    
+{        
+   "id": 87,        
+   "nombre_profesion": "Ecologista",        
+   "area": "Ciencias Naturales",        
+   "descripcion": "El ecologista es responsable de estudiar y proteger el medio ambiente y los ecosistemas, investigando y proponiendo soluciones para problemas ambientales."    
+},   
+ {        
+   "id": 88,        
+   "nombre_profesion": "Camionero",        
+   "area": "Transporte",        
+   "descripcion": "El camionero es responsable de conducir un camión para transportar mercancía a diferentes destinos, siguiendo las regulaciones de seguridad y cumpliendo con los horarios de entrega."    
+},
+{        
+  "id": 89,        
+  "nombre_profesion": "Recolector de residuos",        
+  "area": "Servicios",        
+  "descripcion": "El recolector de residuos es responsable de recolectar y transportar los residuos y basura de las calles y edificios hacia lugares de disposición final."    
+}
+,    
+{        
+  "id": 90,        
+  "nombre_profesion": "Horticultor",        
+  "area": "Agricultura",        
+  "descripcion": "El horticultor es responsable de cultivar y cuidar plantas y flores, tanto en invernaderos como al aire libre, con el objetivo de producir alimentos y ornamentales"    
+},    
+{        
+  "id": 91,        
+  "nombre_profesion": "Estatua viviente",        
+  "area": "Arte",        
+  "descripcion": "La estatua viviente es responsable de permanecer inmóvil y en silencio durante un período de tiempo, con el objetivo de asombrar y entretener al público"    
+},    
+{        
+  "id": 92,        
+  "nombre_profesion": "Activista",        
+  "area": "Proyecto de vida",        
+  "descripcion": "El activista es responsable de trabajar para promover cambios sociales y políticos, mediante la organización de campañas y eventos para sensibilizar a la sociedad sobre temas importantes."    
+},
+{
+        "id": 93,
+        "nombre_profesion": "Amigos",
+        "area": "Proyecto de vida",
+        "descripcion": "Se trata de una juntada de amigos que comparten su tiempo libre pasando momentos agradables."
+    },
+    {
+        "id": 94,
+        "nombre_profesion": "Mochilero",
+        "area": "Turismo",
+        "descripcion": "El mochilero es responsable de viajar con un equipaje mínimo y con un presupuesto limitado, buscando la autenticidad y la interacción con la cultura local"
+    },
+    {
+        "id": 95,
+        "nombre_profesion": "Técnico en alimentos",
+        "area": "Gastronomía",
+        "descripcion": "El técnico en alimentos es responsable de supervisar la producción de alimentos, asegurando que cumplan con las normas de seguridad alimentaria y las regulaciones gubernamentales."
+    },
+    {
+        "id": 96,
+        "nombre_profesion": "DJ",
+        "area": "Arte",
+        "descripcion": "El DJ es responsable de seleccionar y mezclar música para eventos y fiestas, con el objetivo de crear un ambiente divertido y entretenido para el público."
+},
+{        
+  "id": 97,        
+  "nombre_profesion": "Jugador de basket",        
+  "area": "Deportes",        
+  "descripcion": "El jugador de basket es responsable de competir en partidos de baloncesto, siguiendo reglas establecidas, con el objetivo de ganar competiciones y lograr posiciones en el ranking mundial."    
+},    
+{
+  "id": 98,        
+  "nombre_profesion": "Verdulero",        
+  "area": "Gastronomía",        
+  "descripcion": "El verdulero es responsable de vender productos frescos y orgánicos como frutas, verduras y hortalizas en una tienda o mercado."    
+},    
+{         
+  "id": 99,        
+  "nombre_profesion": "Piloto de avión",        
+  "area": "Transporte",        
+  "descripcion": "El piloto de avión es responsable de operar y navegar un avión, asegurando la seguridad de los pasajeros y de la carga durante el vuelo."    
+}
+]
