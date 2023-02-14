@@ -5,7 +5,7 @@ Dar Pye es una aplicación de orientación vocacional desarrollada en Python jun
 
 **Origen de Dar Pye:**
 
-Durante muchos años, junto con el Equipo de Orientación Escolar (EOE) de la escuela, utilizamos Dar Pie, un software de orientación vocacional con el que nuestros estudiantes proyectaban su futuro en función de sus gustos. En el año 2022 intentamos utilizarlo en las netbooks de Conectar Igualdad con Windows 10 y descubrimos que no está preparado para correr en ese sistema operativo, así que decidí hacer una nueva versión de cero inspirada en el Dar Pie original, pero con los cambios que consideramos fundamentales junto a las EOE: Viviana Labonia, Sandra Pérez y Mailén Pacheco, a quienes agradezco su valioso aporte :+1:
+Durante muchos años, junto con el Equipo de Orientación Escolar (EOE) de la escuela, utilizamos Dar Pie, un viejo software de orientación vocacional con el que nuestros estudiantes proyectaban su futuro en función de sus gustos. En el año 2022 intentamos utilizarlo en las netbooks de Conectar Igualdad con Windows 10 y descubrimos que no está preparado para correr en ese sistema operativo, así que decidí hacer una nueva versión de cero inspirada en el Dar Pie original, pero con los cambios que consideramos fundamentales junto a las EOE: Viviana Labonia, Sandra Pérez y Mailén Pacheco, a quienes agradezco su valioso aporte y compañerismo :+1:
 
 # Modo de uso para devs:
 
@@ -34,24 +34,24 @@ python DarPye.pyw
 
 ![Pantalla Inicial](https://github.com/pmileti/DarPye/blob/main/capturas/1.png)
 
-En caso de no comprender de qué trata una fotografía se puede presionar el botón "¿Qué es eso?" para obtener mayor información:
+En caso de no comprender de qué trata una fotografía, se puede presionar el botón "¿Qué es eso?" para obtener mayor información:
 
 ![Pantalla Inicial](https://github.com/pmileti/DarPye/blob/main/capturas/2.png)
 
 
-**2da Etapa**: En esta etapa el usuario deberá categorizar las fotografías seleccionadas en la etapa anterior. Puede asociar una foto con un futuro trabajo, con un proyecto de vida o con pasatiempos. En caso que ya no le despierte interés una fotografía la podrá descartar depositandola en "Ya no me gusta"
+**2da Etapa**: En esta etapa el usuario deberá categorizar las fotografías seleccionadas en la etapa anterior. Puede asociar una foto con un futuro trabajo, con un proyecto de vida o con pasatiempos. En caso que ya no le despierte interés una fotografía la podrá descartar depositándola en "Ya no me gusta"
 
 ![Pantalla Inicial](https://github.com/pmileti/DarPye/blob/main/capturas/3.png)
 
-**3ra Etapa**: Aquí el usuario podrá planificar cuando concretar sus proyectos, si a corto plazo, a mediano o a largo plazo. 
+**3ra Etapa**: Aquí el usuario podrá planificar cuándo concretar sus proyectos, si a corto plazo, a mediano o a largo plazo. 
 
 ![Pantalla Inicial](https://github.com/pmileti/DarPye/blob/main/capturas/4.png)
 
-**Conclusiones:** Para finalizar se mostrarán en pantalla estadísticas y propuestas de continuidad de estudios en función de los gustos del usuario. Es importante destacar que esta aplicación está contextualizada en un ámbito escolar específico, por lo tanto se proponen universidades, terciarios, centros de formación profesional y escuelas de artes y oficios localizados en el distrito de Merlo de la provincia de Buenos Aires.
+**Conclusiones:** Para finalizar se mostrarán en pantalla estadísticas y propuestas de continuidad de estudios en función de los gustos del usuario. Es importante destacar que la aplicación está contextualizada en un ámbito escolar específico, por lo tanto se proponen escuelas de artes y oficios, universidades, terciarios y centros de formación profesional localizados en el distrito de Merlo de la provincia de Buenos Aires.
 
 ![Pantalla Inicial](https://github.com/pmileti/DarPye/blob/main/capturas/5.png)
 
-Finalmente, mientras las concluisiones son presentadas en pantalla, un cuento es generado mediante inteligencia artificial. Este cuento demorará unos minutos en aparecer y está profundamente relacionado a los gustos y proyectos del usuario:
+Finalmente, mientras las conclusiones son presentadas en pantalla, un cuento es generado mediante inteligencia artificial. Este cuento demorará unos minutos en aparecer y está profundamente relacionado a los gustos y proyectos del usuario:
 
 ![Pantalla Inicial](https://github.com/pmileti/DarPye/blob/main/capturas/6.png)
 
@@ -363,4 +363,5 @@ Foto de <a href="https://unsplash.com/@yusronell?utm_source=unsplash&utm_medium=
 Piloto:
 Foto de <a href="https://unsplash.com/@kristopher_allison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristopher Allison</a> en <a href="https://unsplash.com/es/fotos/KU4zYj4u0mo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+
 
